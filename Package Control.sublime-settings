@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Jade Snippets",
+		"JavaScript & NodeJS Snippets",
+		"LESS",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Package Control",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-pylint",
+		"Swift",
+		"Terminal"
+	]
+}
